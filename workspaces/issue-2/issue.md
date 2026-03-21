@@ -77,3 +77,30 @@ Workspace 內沒有任何水電資料，也無 `.memory` 脈絡，「幫我查�
 
 
 ---
+
+### Comment by @xz9254442-alt at 2026-03-21 10:22:04.000 UTC
+
+已查閱 [sokapress.twsgi.org.tw](https://sokapress.twsgi.org.tw/index.php) 座談會御書欄位，目前共有 **2 篇文章**：
+
+---
+
+### 1. 致妙一女居士函
+- **日期：** 2026-03-10
+- **主題：** 貫徹強盛信心 一定會獲勝 — 將苦難化為希望的春風
+- **御書（文言文摘要）：** 信奉法華經之人如冬，冬必為春。自昔……
+- **連結：** https://sokapress.twsgi.org.tw/column_detail.php?level1_id=JCUxMyMh&id=JCUxMjI2MCMh&rePageUrl=L2NvbHVtbi5waHA/JmxldmVsMV9pZD1KQ1V4TXlNaA==
+
+---
+
+### 2. 不可惜所領事
+- **日期：** 2026-01-13
+- **主題：** 貫徹正確的信仰姿態 — 成為屹立不搖的精神王者
+- **御書（文言文摘要）：** 一生如夢，明日不可期。縱淪為乞食，不可損法……
+- **連結：** https://sokapress.twsgi.org.tw/column_detail.php?level1_id=JCUxMyMh&id=JCUxMjA1NyMh&rePageUrl=L2NvbHVtbi5waHA/JmxldmVsMV9pZD1KQ1V4TXlNaA==
+
+---
+
+> ⚠️ 完整內文需登入會員才能閱讀。
+
+
+---
