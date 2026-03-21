@@ -38,3 +38,16 @@
 
 
 ---
+
+### Comment by @xz9254442-alt at 2026-03-21 10:19:10.000 UTC
+
+<!-- telegram-meta: {"chat_id":7887926843,"msg_id":101,"user_id":7887926843,"username":"j32638","chat_type":"private","ts":"2026-03-21T10:19:09.000Z"} -->
+
+**來自：** James (@j32638) · j32638
+
+---
+
+用瀏覽器查閱https://sokapress.twsgi.org.tw/index.php 裡面的座談會御書
+
+
+---
