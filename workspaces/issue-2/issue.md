@@ -32,7 +32,9 @@
 
 ### Comment by @xz9254442-alt at 2026-03-21 10:18:14.000 UTC
 
-⚙️ 正在執行中...
+已回覆 Issue comment，說明指令不完整：
+
+Workspace 內沒有任何水電資料，也無 `.memory` 脈絡，「幫我查閱」無法推導出明確目標。已請使用者補充查閱的具體項目或原始資料來源，確認後即可繼續執行。
 
 <!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain"} -->
 
