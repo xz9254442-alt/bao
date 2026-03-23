@@ -85,3 +85,16 @@
 
 
 ---
+
+### Comment by @xz9254442-alt at 2026-03-23 01:45:53.000 UTC
+
+<!-- telegram-meta: {"chat_id":7887926843,"msg_id":159,"user_id":7887926843,"username":"j32638","chat_type":"private","ts":"2026-03-23T01:45:52.000Z"} -->
+
+**來自：** James (@j32638) · j32638
+
+---
+
+你可以先去下載讀取.xlsx檔案的工具
+
+
+---
