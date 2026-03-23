@@ -129,7 +129,16 @@
 
 ### Comment by @xz9254442-alt at 2026-03-23 01:47:52.000 UTC
 
-⚙️ 正在執行中...
+目前 workspace 缺少 **`監工APP.xlsx`**（輸出模板）。
+
+根據最新上傳，已有：
+- ✅ `ExportDispatch_20260320152834_開店.csv`
+- ✅ `活頁簿2.xlsx`  
+- ❌ `監工APP.xlsx`（仍需上傳）
+
+**等待狀態：** 缺少輸出模板檔案 `監工APP.xlsx`，無法開始彙整。
+
+請上傳 `監工APP.xlsx`，我將立即執行彙整並產出 `監工APP_彙整.xlsx`。
 
 <!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain"} -->
 
