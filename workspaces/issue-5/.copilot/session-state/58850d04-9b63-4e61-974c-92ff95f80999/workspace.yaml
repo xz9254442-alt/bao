@@ -1,0 +1,23 @@
+id: 58850d04-9b63-4e61-974c-92ff95f80999
+cwd: /home/runner/work/bao/bao/workspaces/issue-5
+git_root: /home/runner/work/bao/bao
+repository: xz9254442-alt/bao
+host_type: github
+branch: issue-5
+summary_count: 0
+created_at: 2026-03-23T05:16:37.733Z
+updated_at: 2026-03-23T05:16:40.981Z
+summary: |-
+  # 監工app-蝦仔 Description
+
+  **State:** open
+  **Labels:** chat-session
+  **Created by:** @xz9254442-alt
+  **Created at:** 2026-03-23 01:39:48.000 UTC
+
+  <!-- telegram-meta: {"chat_id":7887926843,"user_id":7887926843,"username":"j32638","chat_type":"private","ts":"2026-03-23T01:39:47.978Z"} -->
+
+  ```json
+  {
+    "name": "監工app-蝦仔",
+    "description": "監工APP 彙整技能\n任務概述\n將三個檔案彙整為一份完整的「監工APP」格式 Excel 報表，核心工作是：\n\n以 ExportDispatch CSV（監工APP系統匯出）為主體資料\n用 活頁簿2.xlsx（門市主檔）的店號比對，將電話號碼形式的監工欄位替換為監工姓名\n輸出套用 監工APP.xlsx 模板格式的最終檔...
