@@ -1,0 +1,45 @@
+2026-03-23T01:40:55.370Z [INFO] Workspace initialized: 0750fdbd-a62e-4c34-b010-fa07b54ea8c3 (checkpoints: 0)
+2026-03-23T01:40:55.389Z [INFO] Starting Copilot CLI: 1.0.9
+2026-03-23T01:40:55.389Z [INFO] Node.js version: v24.11.1
+2026-03-23T01:40:55.477Z [ERROR] Request to GitHub API at https://api.individual.githubcopilot.com/agents/swe/custom-agents/xz9254442-alt/bao?exclude_invalid_config=true&include_sources=org,enterprise failed with status 400 (request ID: 2001:193252:275AE6:30EE6E:69C09A27), body: checking third-party user token: bad request: Personal Access Tokens are not supported for this endpoint
+
+2026-03-23T01:40:55.477Z [WARNING] Failed to load custom agents for xz9254442-alt/bao: checking third-party user token: bad request: Personal Access Tokens are not supported for this endpoint
+
+2026-03-23T01:40:55.477Z [WARNING] could not load remote agents for xz9254442-alt/bao: server returned 400: 
+2026-03-23T01:40:55.485Z [ERROR] Starting remote MCP client for github-mcp-server with url: https://api.individual.githubcopilot.com/mcp/readonly
+2026-03-23T01:40:55.486Z [ERROR] Creating MCP client for github-mcp-server...
+2026-03-23T01:40:55.486Z [ERROR] Connecting MCP client for github-mcp-server...
+2026-03-23T01:40:55.775Z [ERROR] MCP client for github-mcp-server connected, took 289ms
+2026-03-23T01:40:55.776Z [ERROR] Started MCP client for remote server github-mcp-server
+2026-03-23T01:40:55.777Z [ERROR] GitHub MCP server configured after authentication
+2026-03-23T01:40:56.516Z [INFO] Memory enablement check: enabled
+2026-03-23T01:40:57.157Z [INFO] Memory enablement check: enabled
+2026-03-23T01:40:57.432Z [INFO]  
+2026-03-23T01:40:57.432Z [INFO] --- Start of group: configured settings: ---
+2026-03-23T01:40:57.432Z [INFO] --- End of group ---
+2026-03-23T01:40:57.764Z [INFO] --- Start of group: Completion request configuration:  ---
+2026-03-23T01:40:57.765Z [INFO] --- End of group ---
+2026-03-23T01:40:58.371Z [INFO] CompactionProcessor: Utilization 18.2% (23241/128000 tokens) below threshold 80%
+2026-03-23T01:40:58.492Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-03-23T01:41:04.969Z [INFO] --- End of group ---
+2026-03-23T01:41:05.054Z [INFO] CompactionProcessor: Utilization 18.9% (24185/128000 tokens) below threshold 80%
+2026-03-23T01:41:05.203Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-03-23T01:41:07.089Z [INFO] --- End of group ---
+2026-03-23T01:41:07.172Z [INFO] CompactionProcessor: Utilization 22.2% (28388/128000 tokens) below threshold 80%
+2026-03-23T01:41:07.319Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-03-23T01:41:10.382Z [INFO] --- End of group ---
+2026-03-23T01:41:11.055Z [INFO] CompactionProcessor: Utilization 22.3% (28566/128000 tokens) below threshold 80%
+2026-03-23T01:41:11.202Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-03-23T01:41:13.612Z [INFO] --- End of group ---
+2026-03-23T01:41:14.203Z [INFO] CompactionProcessor: Utilization 22.5% (28787/128000 tokens) below threshold 80%
+2026-03-23T01:41:14.349Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-03-23T01:41:17.075Z [INFO] --- End of group ---
+2026-03-23T01:41:17.660Z [INFO] CompactionProcessor: Utilization 22.7% (29066/128000 tokens) below threshold 80%
+2026-03-23T01:41:17.807Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-03-23T01:41:19.826Z [INFO] --- End of group ---
+2026-03-23T01:41:19.929Z [INFO] CompactionProcessor: Utilization 25.0% (31987/128000 tokens) below threshold 80%
+2026-03-23T01:41:20.122Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-03-23T01:41:26.105Z [INFO] --- End of group ---
+2026-03-23T01:41:26.831Z [INFO] CompactionProcessor: Utilization 25.5% (32581/128000 tokens) below threshold 80%
+2026-03-23T01:41:27.045Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-03-23T01:41:29.398Z [INFO] --- End of group ---
