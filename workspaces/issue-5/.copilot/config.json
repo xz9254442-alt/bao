@@ -1,6 +1,6 @@
 {
   "experimental": true,
-  "model": "claude-haiku-4.5",
+  "model": "claude-sonnet-4.6",
   "reasoning_effort": "xhigh",
   "auto_update": false,
   "trusted_folders": [
