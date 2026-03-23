@@ -34,7 +34,16 @@
 
 ### Comment by @xz9254442-alt at 2026-03-23 01:40:38.000 UTC
 
-⚙️ 正在執行中...
+缺少三個輸入檔案，無法執行彙整
+
+根據「監工APP彙整_skill.md」技能說明，需要以下檔案才能開始彙整：
+
+**缺失檔案：**
+- `ExportDispatch_YYYYMMDDHHMMSS_開店.csv`（監工APP匯出資料）
+- `活頁簿2.xlsx`（門市主檔，含店號與監工姓名映射）
+- `監工APP.xlsx`（輸出模板，定義格式與表頭樣式）
+
+**下一步：** 請上傳這三個檔案到本 Issue，我將執行彙整並產出 `監工APP_彙整.xlsx`。
 
 <!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain"} -->
 
