@@ -101,7 +101,11 @@
 
 ### Comment by @xz9254442-alt at 2026-03-23 01:45:57.000 UTC
 
-⚙️ 正在執行中...
+完成。已安裝：
+- **openpyxl 3.1.5**（讀取、編輯 Excel 檔案）
+- **pandas 3.0.1**（數據操作與彙整）
+
+工具就緒，等待上傳 `活頁簿2.xlsx` 與 `監工APP.xlsx` 即可開始彙整。
 
 <!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain"} -->
 
