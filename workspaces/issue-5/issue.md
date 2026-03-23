@@ -348,3 +348,20 @@ workspaces/issue-5/files/監工APP_彙整.xlsx
 
 
 ---
+
+### Comment by @xz9254442-alt at 2026-03-23 05:15:43.000 UTC
+
+<!-- telegram-meta: {"chat_id":7887926843,"msg_id":182,"user_id":7887926843,"username":"j32638","chat_type":"private","ts":"2026-03-23T05:15:41.000Z","media_type":"document"} -->
+
+**來自：** James (@j32638) · j32638
+
+---
+
+[📄 文件 — 監工APP彙整_skill.md](files/1774242942296_監工APP彙整_skill.md)
+
+更新以這為主
+
+相對位置：`assets/telegram/1774242942296_監工APP彙整_skill.md`
+
+
+---
