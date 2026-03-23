@@ -307,7 +307,20 @@ workspaces/issue-5/files/監工APP_彙整.xlsx
 
 ### Comment by @xz9254442-alt at 2026-03-23 02:49:27.000 UTC
 
-⚙️ 正在執行中...
+✅ **使用新主檔重新彙整完成。**
+
+**交付物：**
+- `workspaces/issue-5/files/監工APP_彙整.xlsx`
+
+**彙整結果：**
+- 總筆數：156 筆
+- 已對應監工姓名：83 筆（使用新主檔映射）
+- 未對應記錄：73 筆（標記淡紅底，便於識別）
+
+**檔案規格符合監工APP模板：**
+- 16 欄位完整
+- 首列凍結、自動篩選啟用
+- 未對應欄位淡紅標記（#FFC7CE）
 
 <!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain"} -->
 
