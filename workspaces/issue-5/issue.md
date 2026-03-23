@@ -49,3 +49,18 @@
 
 
 ---
+
+### Comment by @xz9254442-alt at 2026-03-23 01:44:17.000 UTC
+
+<!-- telegram-meta: {"chat_id":7887926843,"msg_id":155,"user_id":7887926843,"username":"j32638","chat_type":"private","ts":"2026-03-23T01:44:15.000Z","media_type":"document"} -->
+
+**來自：** James (@j32638) · j32638
+
+---
+
+[📄 文件 — ExportDispatch_20260320152834_開店.csv](files/1774230256630_ExportDispatch_20260320152834_開店.csv)
+
+相對位置：`assets/telegram/1774230256630_ExportDispatch_20260320152834_開店.csv`
+
+
+---
