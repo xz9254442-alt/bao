@@ -287,3 +287,20 @@ workspaces/issue-5/files/監工APP_彙整.xlsx
 
 
 ---
+
+### Comment by @xz9254442-alt at 2026-03-23 02:49:24.000 UTC
+
+<!-- telegram-meta: {"chat_id":7887926843,"msg_id":178,"user_id":7887926843,"username":"j32638","chat_type":"private","ts":"2026-03-23T02:49:22.000Z","media_type":"document"} -->
+
+**來自：** James (@j32638) · j32638
+
+---
+
+[📄 文件 — 活頁簿2.xlsx](files/1774234162986_活頁簿2.xlsx)
+
+要用這個檔案資料為主檔
+
+相對位置：`assets/telegram/1774234162986_活頁簿2.xlsx`
+
+
+---
