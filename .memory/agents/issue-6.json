@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-03-24T21:54:48.691Z",
+  "repository": "xz9254442-alt/bao",
+  "issue": {
+    "number": 6,
+    "title": "旅遊蝦",
+    "url": "https://github.com/xz9254442-alt/bao/issues/6",
+    "state": "open",
+    "author": "xz9254442-alt",
+    "labels": [
+      "chat-session"
+    ],
+    "assignees": [],
+    "participants": [
+      "xz9254442-alt"
+    ],
+    "commentCount": 0,
+    "updatedAt": "2026-03-23T10:51:32.000Z"
+  },
+  "summary": {
+    "status": "{   \"status\": \"活躍 - 已完成設定，等待使用者下指令\",   \"recentActivity\": [     \"回覆 Issue #6，說明旅遊蝦已設定完成並列出偏好摘要\",     \"記錄使用者的出發地、行程步調、餐飲與住宿偏好\",     \"提供快速指令說明（規劃、比價、即時推薦、打包清單、連結分析）\",     \"提醒使用者資訊可能過…",
+    "recentActivity": [
+      "沒有足夠資訊可整理近期活動。"
+    ],
+    "decisions": [
+      "目前沒有明確決策。"
+    ],
+    "completedWork": [
+      "目前沒有可確認的已完成工作。"
+    ],
+    "openTasks": [
+      "目前沒有可確認的待辦，或資訊不足。"
+    ],
+    "preferences": [
+      "目前沒有可確認的偏好設定。"
+    ],
+    "openLoops": [
+      "目前沒有可確認的未解議題。"
+    ]
+  }
+}
