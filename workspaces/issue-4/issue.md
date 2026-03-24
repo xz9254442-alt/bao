@@ -424,3 +424,16 @@
 
 
 ---
+
+### Comment by @xz9254442-alt at 2026-03-24 10:36:41.000 UTC
+
+<!-- telegram-meta: {"chat_id":7887926843,"msg_id":255,"user_id":7887926843,"username":"j32638","chat_type":"private","ts":"2026-03-24T10:36:40.000Z"} -->
+
+**來自：** James (@j32638) · j32638
+
+---
+
+我忘了發信給採購APFR 信提醒我
+
+
+---
