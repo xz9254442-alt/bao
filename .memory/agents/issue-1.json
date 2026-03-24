@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-03-24T21:54:48.691Z",
+  "repository": "xz9254442-alt/bao",
+  "issue": {
+    "number": 1,
+    "title": "初號機",
+    "url": "https://github.com/xz9254442-alt/bao/issues/1",
+    "state": "open",
+    "author": "xz9254442-alt",
+    "labels": [],
+    "assignees": [],
+    "participants": [
+      "xz9254442-alt"
+    ],
+    "commentCount": 0,
+    "updatedAt": "2026-03-24T10:45:09.000Z"
+  },
+  "summary": {
+    "status": "{   \"status\": \"活躍 - 仍在處理 Outlook 365 開啟需求，尚未完成任何最終交付\",   \"recentActivity\": [     \"回覆「⚙️ 正在執行中...」表示已開始打開 Outlook 365\",     \"先前已在 workspaces/issue-1/outputs/整理影片指南.md 建立影片整理教學\",…",
+    "recentActivity": [
+      "沒有足夠資訊可整理近期活動。"
+    ],
+    "decisions": [
+      "目前沒有明確決策。"
+    ],
+    "completedWork": [
+      "目前沒有可確認的已完成工作。"
+    ],
+    "openTasks": [
+      "目前沒有可確認的待辦，或資訊不足。"
+    ],
+    "preferences": [
+      "目前沒有可確認的偏好設定。"
+    ],
+    "openLoops": [
+      "目前沒有可確認的未解議題。"
+    ]
+  }
+}
