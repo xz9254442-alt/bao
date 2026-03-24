@@ -1,8 +1,1 @@
-- 已完成：已在 repo 中建立操作與整理教學檔案（未下載/轉錄影片）。  
-- 交付物：  
-  - Markdown 教學檔：workspaces/issue-1/outputs/整理影片指南.md  
-- 下一步（選一）：  
-  1. 若要我代為下載並轉錄並產出摘要，請確認該 Facebook 影片能公開存取或授權我使用（或提供可存取的影片檔）。  
-  2. 若要自行操作，請開啟上方檔案並依步驟執行；遇到某一步卡住，回覆卡卡的那一步與錯誤截圖即可。
-
 <!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain"} -->
