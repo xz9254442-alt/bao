@@ -1,0 +1,89 @@
+{
+  "generatedAt": "2026-03-25T21:55:44.427Z",
+  "window": {
+    "repository": "xz9254442-alt/bao",
+    "issueState": "all",
+    "issueLimit": 100,
+    "sinceDays": 30
+  },
+  "counts": {
+    "consideredIssues": 6,
+    "openIssues": 6,
+    "closedIssues": 0
+  },
+  "topLabels": [
+    {
+      "name": "chat-session",
+      "count": 2
+    }
+  ],
+  "agentFiles": [
+    {
+      "issueNumber": 4,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/4",
+      "title": "待辦蝦",
+      "relativePath": "agents/issue-4.json"
+    },
+    {
+      "issueNumber": 1,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/1",
+      "title": "Issue #1",
+      "relativePath": "agents/issue-1.json"
+    },
+    {
+      "issueNumber": 5,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/5",
+      "title": "Issue #5",
+      "relativePath": "agents/issue-5.json"
+    },
+    {
+      "issueNumber": 6,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/6",
+      "title": "旅遊蝦",
+      "relativePath": "agents/issue-6.json"
+    },
+    {
+      "issueNumber": 2,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/2",
+      "title": "Issue #2",
+      "relativePath": "agents/issue-2.json"
+    },
+    {
+      "issueNumber": 3,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/3",
+      "title": "Issue #3",
+      "relativePath": "agents/issue-3.json"
+    }
+  ],
+  "sections": {
+    "agentActivity": [
+      "#4 待辦蝦：沒有足夠資訊可整理近期活動。",
+      "#1 Issue #1：截至目前，尚未收到 Telegram 進一步的指示或回覆",
+      "#5 Issue #5：最近沒有新的留言活動。",
+      "#6 旅遊蝦：最近沒有新的留言活動。",
+      "#2 Issue #2：最近沒有新的留言活動。"
+    ],
+    "crossIssueThemes": [
+      "#4：目前沒有可確認的偏好設定。",
+      "#1：目前沒有可確認的偏好設定。",
+      "#5：目前沒有可確認的偏好設定。",
+      "#6：## 我的偏好（請記住）",
+      "#6：住宿偏好交通方便的地點，乾淨比豪華重要"
+    ],
+    "decisions": [
+      "#4：目前沒有明確決策。",
+      "#1：目前尚未形成具體決策，需待主人提供需求細節",
+      "#5：描述：監工APP 彙整技能 任務概述 將三個檔案彙整為一份完整的「監工APP」格式 Excel 報表，核心工作是： 以 ExportDispatch CSV（監工APP系統匯出）為主體資料 用 活頁簿2.xlsx（門市主檔）的店號比對，將電話號碼形式的監工欄位替換為監工姓名 輸出套用 監工APP.xlsx 模板格式的最終檔案",
+      "#6：## 我的偏好（請記住）",
+      "#6：住宿偏好交通方便的地點，乾淨比豪華重要"
+    ],
+    "openLoops": [
+      "#4：目前沒有可確認的未解議題。",
+      "#1：等待主人說明 Issue 具體目標與期望成果",
+      "#1：待確認是否需要分配負責人或添加標籤",
+      "#5：目前沒有可確認的未解議題。",
+      "#6：當我告訴你目的地和天數，請產出："
+    ]
+  },
+  "summarySource": "deterministic"
+}

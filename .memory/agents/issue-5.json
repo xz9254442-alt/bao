@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T21:54:48.691Z",
+  "generatedAt": "2026-03-25T21:55:44.427Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,12 +16,12 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"等待 - 目前尚未開始實作，缺乏進一步指示或確認資料格式\",   \"recentActivity\": [     \"龍蝦已閱讀 Issue 內容，了解需要彙整三個檔案產出監工APP報表\",     \"目前尚未收到 Telegram 進一步指示或樣本檔案\"   ],   \"decisions\": [     \"決定以 Expor…",
+    "status": "Issue 仍在推進中，保留 1 個 active tasks。",
     "recentActivity": [
-      "沒有足夠資訊可整理近期活動。"
+      "最近沒有新的留言活動。"
     ],
     "decisions": [
-      "目前沒有明確決策。"
+      "描述：監工APP 彙整技能 任務概述 將三個檔案彙整為一份完整的「監工APP」格式 Excel 報表，核心工作是： 以 ExportDispatch CSV（監工APP系統匯出）為主體資料 用 活頁簿2.xlsx（門市主檔）的店號比對，將電話號碼形式的監工欄位替換為監工姓名 輸出套用 監工APP.xlsx 模板格式的最終檔案"
     ],
     "completedWork": [
       "目前沒有可確認的已完成工作。"

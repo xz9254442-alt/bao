@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T21:54:48.691Z",
+  "generatedAt": "2026-03-25T21:55:44.427Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 3,
@@ -16,24 +16,24 @@
     "updatedAt": "2026-03-22T14:00:05.000Z"
   },
   "summary": {
-    "status": "資訊不明 - 目前僅有 Issue 標題與建立資訊，缺乏具體內容與對話紀錄。",
+    "status": "Issue 仍在推進中，保留 1 個 active tasks。",
     "recentActivity": [
-      "沒有足夠資訊可整理近期活動。"
+      "最近沒有新的留言活動。"
     ],
     "decisions": [
-      "目前尚未有任何決策，需等待主人說明需求與目標。"
+      "目前沒有明確決策。"
     ],
     "completedWork": [
       "目前沒有可確認的已完成工作。"
     ],
     "openTasks": [
-      "請主人提供 Issue 具體描述或相關 Telegram 討論內容。"
+      "目前沒有可確認的待辦，或資訊不足。"
     ],
     "preferences": [
       "目前沒有可確認的偏好設定。"
     ],
     "openLoops": [
-      "請主人提供 Issue 具體描述或相關 Telegram 討論內容。"
+      "目前沒有可確認的未解議題。"
     ]
   }
 }
