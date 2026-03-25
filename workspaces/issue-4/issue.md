@@ -496,7 +496,9 @@
 
 ### Comment by @xz9254442-alt at 2026-03-25 17:19:14.000 UTC
 
-⚙️ 正在執行中...
+已完成。
+
+「發信給採購 APFR」已標記為 ✅ 完成，目前剩 **7 筆**未完成待辦。
 
 <!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain"} -->
 
