@@ -102,7 +102,11 @@
 
 ### Comment by @xz9254442-alt at 2026-03-26 09:01:00.000 UTC
 
-⚙️ 正在執行中...
+週報已於前次執行完成，本次為重複觸發，結果不變。
+
+- Markdown：`workspaces/issue-3/outputs/weekly_report_20260326.md`
+
+> 如需輸出為 .docx 格式（微軟正黑體 / No Spacing / 表頭 #007350）或調整內容，請告知。
 
 <!-- githubclaw-brain-result: {"source":"githubclaw-worker-brain"} -->
 
