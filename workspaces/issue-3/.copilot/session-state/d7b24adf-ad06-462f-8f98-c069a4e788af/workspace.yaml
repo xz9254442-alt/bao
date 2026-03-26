@@ -1,0 +1,23 @@
+id: d7b24adf-ad06-462f-8f98-c069a4e788af
+cwd: /home/runner/work/bao/bao/workspaces/issue-3
+git_root: /home/runner/work/bao/bao
+repository: xz9254442-alt/bao
+host_type: github
+branch: issue-3
+summary_count: 0
+created_at: 2026-03-26T09:06:52.637Z
+updated_at: 2026-03-26T09:06:57.029Z
+summary: |-
+  # 週報筆記 Description
+
+  **State:** open
+  **Labels:** chat-session
+  **Created by:** @xz9254442-alt
+  **Created at:** 2026-03-22 14:00:05.000 UTC
+
+  <!-- telegram-meta: {"chat_id":7887926843,"user_id":7887926843,"username":"j32638","chat_type":"private","ts":"2026-03-22T14:00:04.980Z"} -->
+
+  ```json
+  {
+    "name": "週報筆記",
+    "description": "你存的週報格式規範是這樣：\n範本檔： 20260206工程管理週報2.docx\n基本設定：\n ∙ 字型：微軟正黑體\n ∙ 段落樣式：No Spacing\n表格結構： 三欄表格\n\n\n\n|專案名稱|本週進度|待辦下週計畫|\n|----|----|------|\n|…   |…   |…     |\n\n表頭色： 綠色 #007...
