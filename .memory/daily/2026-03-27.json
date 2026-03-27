@@ -1,0 +1,89 @@
+{
+  "generatedAt": "2026-03-27T21:52:08.967Z",
+  "window": {
+    "repository": "xz9254442-alt/bao",
+    "issueState": "all",
+    "issueLimit": 100,
+    "sinceDays": 30
+  },
+  "counts": {
+    "consideredIssues": 6,
+    "openIssues": 6,
+    "closedIssues": 0
+  },
+  "topLabels": [
+    {
+      "name": "chat-session",
+      "count": 3
+    }
+  ],
+  "agentFiles": [
+    {
+      "issueNumber": 3,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/3",
+      "title": "週報筆記",
+      "relativePath": "agents/issue-3.json"
+    },
+    {
+      "issueNumber": 4,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/4",
+      "title": "待辦蝦",
+      "relativePath": "agents/issue-4.json"
+    },
+    {
+      "issueNumber": 1,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/1",
+      "title": "Issue #1",
+      "relativePath": "agents/issue-1.json"
+    },
+    {
+      "issueNumber": 5,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/5",
+      "title": "Issue #5",
+      "relativePath": "agents/issue-5.json"
+    },
+    {
+      "issueNumber": 6,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/6",
+      "title": "旅遊蝦",
+      "relativePath": "agents/issue-6.json"
+    },
+    {
+      "issueNumber": 2,
+      "issueUrl": "https://github.com/xz9254442-alt/bao/issues/2",
+      "title": "Issue #2",
+      "relativePath": "agents/issue-2.json"
+    }
+  ],
+  "sections": {
+    "agentActivity": [
+      "#3 週報筆記：最近沒有新的留言活動。",
+      "#4 待辦蝦：最近沒有新的留言活動。",
+      "#1 Issue #1：目前尚未收到進一步的 Telegram 訊息或回覆",
+      "#5 Issue #5：沒有足夠資訊可整理近期活動。",
+      "#6 旅遊蝦：最近沒有新的留言活動。"
+    ],
+    "crossIssueThemes": [
+      "#3：目前沒有可確認的偏好設定。",
+      "#4：簡潔為主，不要廢話",
+      "#4：相關人如果我沒提，就留空不要亂猜",
+      "#1：目前沒有可確認的偏好設定。",
+      "#5：目前沒有可確認的偏好設定。"
+    ],
+    "decisions": [
+      "#3：目前沒有明確決策。",
+      "#4：⏰ 即將逾期（3天內）",
+      "#4：簡潔為主，不要廢話",
+      "#4：相關人如果我沒提，就留空不要亂猜",
+      "#1：目前尚未確定任何具體方向或需求"
+    ],
+    "openLoops": [
+      "#3：\"description\": \"你存的週報格式規範是這樣：\\n範本檔： 20260206工程管理週報2.docx\\n基本設定：\\n ∙ 字型：微軟正黑體\\n ∙ 段落樣式：No Spacing\\n表格結構： 三欄表格\\n\\n\\n\\n|專案名稱|本週進度|待辦下週計畫|\\n|----|----|------|\\n|…   |…   |…     |\\n…",
+      "#3：| 專案名稱 | 本週進度 | 待辦下週計畫 |",
+      "#3：> 如需調整專案名稱、新增其他欄位或輸出為 .docx 格式（微軟正黑體 / No Spacing / 表頭 #007350），請告知。",
+      "#3：> 如需輸出為 .docx 格式（微軟正黑體 / No Spacing / 表頭 #007350）或調整內容，請告知。",
+      "#4：持續卡住超過 2 週的項目（特別標出）"
+    ]
+  },
+  "summarySource": "deterministic"
+}
