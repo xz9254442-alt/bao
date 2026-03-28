@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T21:52:08.967Z",
+  "generatedAt": "2026-03-28T21:00:30.403Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"活躍 - 尚未開始執行，等待進一步指示\",   \"recentActivity\": [     \"已閱讀 Issue 內容，確認任務需求與目標格式\",     \"載入先前記憶，準備使用列出的技能協助完成任務\"   ],   \"decisions\": [     \"決定以 ExportDispatch CSV 為主資料來源\",…",
+    "status": "{   \"status\": \"活躍 - Issue 仍為 open，尚未有實際執行紀錄，等待龍蝦開始處理。\",   \"recentActivity\": [     \"已讀取 Issue 內容，確認需要彙整 ExportDispatch CSV、活頁簿2.xlsx 與 監工APP.xlsx 模板。\",     \"根據描述，已在記憶中載入相關技能清單，準備使用…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
