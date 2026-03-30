@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T21:02:17.327Z",
+  "generatedAt": "2026-03-30T22:00:31.006Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"等待 - 目前尚未開始執行，仍在等待確認資料與指示\",   \"recentActivity\": [     \"已載入先前記憶，準備開始處理監工APP報表彙整工作\"   ],   \"decisions\": [     \"以 ExportDispatch CSV 為主資料來源，並以 活頁簿2.xlsx 的店號進行比對\",…",
+    "status": "{   \"status\": \"活躍 - Issue 為 open，尚未有阻塞或完成的訊號，等待執行指示。\",   \"recentActivity\": [     \"目前尚未收到實際執行回報，僅有任務說明與需求待處理。\"   ],   \"decisions\": [     \"核心資料來源確定為 ExportDispatch CSV。\",     \"以 活頁簿…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
