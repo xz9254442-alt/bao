@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T22:00:31.006Z",
+  "generatedAt": "2026-03-31T21:57:41.018Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 3,
@@ -18,7 +18,7 @@
     "updatedAt": "2026-03-26T09:10:15.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"已完成（等待使用者確認是否需要調整內容或輸出 .docx）\",   \"recentActivity\": [     \"根據四張 Telegram 照片完成週報資料擷取與表格整理。\",     \"產出 Markdown 週報檔案於 workspaces/issue-3/outputs/weekly_report_20260326…",
+    "status": "{   \"status\": \"已完成，等待使用者確認或額外需求（目前 issue 仍為 open）\",   \"recentActivity\": [     \"根據 4 張 Telegram 照片解析出本週電力品質量測資料\",     \"依既定範本產出 Markdown 週報並存於 workspaces/issue-3/outputs/weekly_repo…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
