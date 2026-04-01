@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T21:57:41.018Z",
+  "generatedAt": "2026-04-01T22:00:32.205Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"等待 - 仍在等待提供三個必要檔案與最終輸出格式指示\",   \"recentActivity\": [     \"已讀取 Issue 內容，了解監工APP 報表彙整需求\",     \"載入先前記憶與可用技能清單，準備開始資料比對與轉換工作\"   ],   \"decisions\": [     \"以 ExportDispatch…",
+    "status": "{   \"status\": \"活躍 - Issue 已建立且尚未開始執行，無阻塞因素\",   \"recentActivity\": [     \"已載入先前的記憶以備後續處理\",     \"閱讀 Issue 內容，確認任務目標與所需檔案\"   ],   \"decisions\": [     \"決定以 ExportDispatch CSV 為主資料來源\",…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
