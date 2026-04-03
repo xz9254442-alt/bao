@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T21:54:37.445Z",
+  "generatedAt": "2026-04-03T21:06:01.191Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 1,
@@ -16,24 +16,24 @@
     "updatedAt": "2026-03-24T10:45:09.000Z"
   },
   "summary": {
-    "status": "資訊不明 - Issue 內容僅有標題，缺乏需求說明與指示",
+    "status": "資訊不明 - 目前僅有 Issue 標題，缺乏具體需求與對話內容。",
     "recentActivity": [
-      "目前無任何對話或回覆紀錄"
+      "沒有足夠資訊可整理近期活動。"
     ],
     "decisions": [
-      "尚未確定任何決策，需等待主人補充需求"
+      "目前尚未形成任何決策，需等待主人提供需求細節。"
     ],
     "completedWork": [
       "目前沒有可確認的已完成工作。"
     ],
     "openTasks": [
-      "請主人提供 Issue 詳細說明與預期目標"
+      "請主人說明 Issue 目標與預期成果。"
     ],
     "preferences": [
       "目前沒有可確認的偏好設定。"
     ],
     "openLoops": [
-      "請主人提供 Issue 詳細說明與預期目標"
+      "請主人說明 Issue 目標與預期成果。"
     ]
   }
 }
