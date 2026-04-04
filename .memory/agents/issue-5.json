@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T21:06:01.191Z",
+  "generatedAt": "2026-04-04T21:01:58.875Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"活躍 - Issue 尚未有實際執行紀錄，但已明確定義目標與需求，等待開始工作\",   \"recentActivity\": [     \"龍蝦已將 Issue #5 的任務描述與需求整理成記憶，確認核心工作流程。\",     \"龍蝦提醒主人需提供 ExportDispatch CSV、活頁簿2.xlsx 與 監工APP.xls…",
+    "status": "{   \"status\": \"活躍 - Issue 為 open，尚未有阻塞或完成的訊號，僅等待執行工作。\",   \"recentActivity\": [     \"載入先前的記憶與相關技能清單。\",     \"確認任務描述：以 ExportDispatch CSV 為主資料，對照 活頁簿2.xlsx 店號，將電話格式的監工欄位換成姓名，最後套用 監工AP…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
