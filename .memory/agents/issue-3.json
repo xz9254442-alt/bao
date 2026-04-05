@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T21:01:58.875Z",
+  "generatedAt": "2026-04-05T21:02:55.841Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 3,
@@ -18,7 +18,7 @@
     "updatedAt": "2026-03-26T09:10:15.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"已完成 - 等待主人回覆是否需要調整內容或輸出 .docx 格式\",   \"recentActivity\": [     \"根據四張 Telegram 照片完成週報整理並產出 markdown 檔案\",     \"在 issue 中貼出完成的週報表格與 markdown 路徑\",     \"提醒主人本次觸發為重複，結果與前次相…",
+    "status": "{   \"status\": \"等待回覆 – 週報已完成並上傳，但仍需主人確認是否要調整欄位、專案名稱或輸出為 .docx 格式\",   \"recentActivity\": [     \"根據 4 張 Telegram 照片解析出本週電力品質量測資料\",     \"自動產生符合範本規範的週報 Markdown 檔案並放入 workspaces/issue-3…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
