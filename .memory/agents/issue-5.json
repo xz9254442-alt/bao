@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T22:01:25.395Z",
+  "generatedAt": "2026-04-08T22:06:01.440Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"等待 - Issue 已建立但尚未開始執行，無任何進度或討論紀錄。\",   \"recentActivity\": [     \"目前尚未收到指示，龍蝦尚未執行任何步驟。\"   ],   \"decisions\": [     \"核心流程已在 Issue 描述中確定：以 ExportDispatch CSV 為主資料，使用 活頁",
+    "status": "{   \"status\": \"等待 - 目前僅建立 Issue，尚未開始任何實作或取得進一步指示。\",   \"recentActivity\": [     \"收到建立需求，尚未執行任何資料處理或回覆。\",     \"已確認需要彙整 ExportDispatch CSV、活頁簿2.xlsx 與 監工APP.xlsx 三個檔案。\",     \"等待主人提供店號…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
