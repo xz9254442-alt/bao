@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T21:56:12.763Z",
+  "generatedAt": "2026-04-11T21:03:35.657Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"等待 - 仍未取得三個必要檔案與具體執行指示，故任務暫停中\",   \"recentActivity\": [     \"已載入先前記憶，確認本次任務為『監工蝦』的資料彙整工作\",     \"在 Telegram 中向主人說明任務目標與所需檔案\",     \"檢視 Issue 內容，整理出核心流程與使用技能清單\"   ],   \"…",
+    "status": "{   \"status\": \"活躍 - Issue 為 open，尚未有任何回覆或完成項目，需開始執行彙整工作。\",   \"recentActivity\": [     \"監工蝦已記錄任務需求，並確認需要使用 ExportDispatch CSV、活頁簿2.xlsx 與 監工APP.xlsx 模板。\",     \"已將任務目標與所需技能整理成可執行的工作脈…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
