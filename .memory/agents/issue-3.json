@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T21:03:35.657Z",
+  "generatedAt": "2026-04-12T21:51:01.180Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 3,
@@ -18,7 +18,7 @@
     "updatedAt": "2026-03-26T09:10:15.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"活躍 - 仍開放中，已完成週報產出，等待使用者確認是否需要 .docx 輸出或內容調整\",   \"recentActivity\": [     \"根據四張 Telegram 照片，萃取出 SGS P0000182 電力品質量測的本週進度與下週計畫，完成 Markdown 週報。\",     \"將產出的週報存於 workspac…",
+    "status": "{   \"status\": \"等待 - 已完成週報整理，但仍待主人確認是否需要調整內容或輸出 .docx 檔案\",   \"recentActivity\": [     \"根據四張 Telegram 照片完成週報資料擷取與表格填寫\",     \"產出 Markdown 週報檔案 workspaces/issue-3/outputs/weekly_report…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
