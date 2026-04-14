@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T22:10:22.632Z",
+  "generatedAt": "2026-04-14T22:31:51.384Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"活躍 - Issue 為 open，尚未開始實作，等待進一步指示\",   \"recentActivity\": [     \"已閱讀 Issue 內容，確認需要彙整三個檔案並產出監工APP Excel 報表\"   ],   \"decisions\": [     \"以 ExportDispatch CSV 為主體資料，使用活頁簿2…",
+    "status": "{   \"status\": \"活躍 - Issue 剛建立，尚未有實際執行紀錄，等待開始工作\",   \"recentActivity\": [     \"已載入先前的記憶，為後續彙整作業做好準備\"   ],   \"decisions\": [     \"決定以 ExportDispatch CSV 為主體資料，並以 活頁簿2.xlsx 的店號比對來替換監工欄位…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
