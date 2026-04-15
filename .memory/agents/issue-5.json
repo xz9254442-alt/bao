@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T22:31:51.384Z",
+  "generatedAt": "2026-04-15T22:10:57.577Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"活躍 - Issue 剛建立，尚未有實際執行紀錄，等待開始工作\",   \"recentActivity\": [     \"已載入先前的記憶，為後續彙整作業做好準備\"   ],   \"decisions\": [     \"決定以 ExportDispatch CSV 為主體資料，並以 活頁簿2.xlsx 的店號比對來替換監工欄位…",
+    "status": "{   \"status\": \"等待 - 目前僅有任務說明，尚未取得三個來源檔案或開始實作\",   \"recentActivity\": [     \"已載入先前記憶，確認本次任務為『監工蝦』的資料彙整工作\",     \"閱讀 Issue 內容，釐清需要以 ExportDispatch CSV 為主體，並比對活頁簿2.xlsx 的店號\",     \"辨識出需將…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
