@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T22:04:30.844Z",
+  "generatedAt": "2026-04-17T22:04:44.663Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 5,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T14:49:12.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"活躍 - Issue 尚未開始，等待取得原始檔案與指示\",   \"recentActivity\": [     \"目前尚未有實際執行紀錄，僅完成需求整理與任務分解\"   ],   \"decisions\": [     \"以 ExportDispatch CSV 為主資料來源，並以 活頁簿2.xlsx 的店號比對取代電話號碼為監…",
+    "status": "{   \"status\": \"活躍 - Issue 為 open，尚未有阻塞或等待外部回覆，已可開始執行任務。\",   \"recentActivity\": [     \"已將 Issue 內容整理成任務記錄，並確認需要的三個檔案與處理流程。\",     \"確認目前無任何評論或外部阻礙，可直接著手執行。\"   ],   \"decisions\": […",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],

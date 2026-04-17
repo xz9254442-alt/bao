@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T22:04:30.844Z",
+  "generatedAt": "2026-04-17T22:04:44.663Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 3,
@@ -18,7 +18,7 @@
     "updatedAt": "2026-03-26T09:10:15.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"已完成 (週報已產出並上傳 Markdown，等待使用者確認或需求調整)\",   \"recentActivity\": [     \"根據四張照片內容完成週報整理，生成 Markdown 檔案 workspaces/issue-3/outputs/weekly_report_20260326.md\",     \"回覆使用者說明週…",
+    "status": "{   \"status\": \"已完成，等待主人回覆是否需要調整內容或輸出 .docx 格式\",   \"recentActivity\": [     \"根據 4 張照片完成週報整理，產出 Markdown 檔案\",     \"在 Issue 中回覆已完成週報，提供表格內容與檔案路徑\",     \"提醒主人本次觸發為重複，結果不變，請告知是否需調整\",…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
