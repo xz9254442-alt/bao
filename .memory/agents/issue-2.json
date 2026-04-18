@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T22:04:44.663Z",
+  "generatedAt": "2026-04-18T21:51:18.021Z",
   "repository": "xz9254442-alt/bao",
   "issue": {
     "number": 2,
@@ -16,7 +16,7 @@
     "updatedAt": "2026-03-23T00:19:31.000Z"
   },
   "summary": {
-    "status": "{   \"status\": \"活躍 - Issue 仍為 open，尚未有阻塞或完成的訊號，代表龍蝦正待執行整理水電資料的任務。\",   \"recentActivity\": [     \"龍蝦已確認收到「水電蝦」任務，並列出可使用的技能清單。\",     \"根據 Issue 內容，龍蝦準備啟動 agent-browser 以搜尋相關水電資料。\",…",
+    "status": "{   \"status\": \"活躍 - Issue 仍為 open，尚未有阻塞或完成的訊號，代表龍蝦正等待主人指示或資料來源。\",   \"recentActivity\": [     \"龍蝦已在 GitHub 建立 Issue #2，記錄「水電蝦」任務與所需技能。\",     \"根據 Issue 內容，龍蝦向主人說明將使用瀏覽器、語音轉文字等技能來整理水電…",
     "recentActivity": [
       "沒有足夠資訊可整理近期活動。"
     ],
